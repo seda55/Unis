@@ -1,0 +1,17 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  height: 90px;
+}
+.nav-container .list {
+  display: flex;
+  list-style: none;
+  gap: 50px;
+}
+.nav-container .list a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}

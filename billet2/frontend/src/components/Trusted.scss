@@ -1,0 +1,35 @@
+.about-container{
+    display: flex;
+   
+
+    .about-text{
+ padding: 150px;
+ width: 700px;
+ display: flex;
+ flex-direction: column;
+ gap:10px;
+ p{
+    width: 250px;
+    font-size: 20px;
+    color: gray;
+ }
+ button{
+    color: rgb(254, 252, 252);
+    background-color: black;
+    width: 150px;
+    height: 40px;
+    margin-left: 70px;
+
+    font-size: 15px;
+ }
+    }
+    .img{
+        img{
+            width: 730px;
+        background-color: red($color: #000000);
+        }
+        
+    
+    
+    }
+}

@@ -1,0 +1,27 @@
+.about-container {
+  display: flex;
+}
+.about-container .about-text {
+  padding: 150px;
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.about-container .about-text p {
+  width: 250px;
+  font-size: 20px;
+  color: gray;
+}
+.about-container .about-text button {
+  color: rgb(254, 252, 252);
+  background-color: black;
+  width: 150px;
+  height: 40px;
+  margin-left: 70px;
+  font-size: 15px;
+}
+.about-container .img img {
+  width: 730px;
+  background-color: 0;
+}
