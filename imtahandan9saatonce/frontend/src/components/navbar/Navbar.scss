@@ -1,0 +1,25 @@
+.nav-container{
+    .nav{
+        display: flex;
+        justify-content: space-around;
+        height: 100px;
+        align-items: center;
+        .nav-link{
+            display: flex;
+            gap: 20px;
+            a{
+                font-size: 20px;
+                color: black;
+            }
+        }
+        .nav-icon{
+
+            display: flex;
+            gap: 20px;
+            a{
+                font-size: 25px;
+                color: black;
+            }
+        }
+    }
+}

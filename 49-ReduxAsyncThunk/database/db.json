@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "5794",
+      "name": "Seid",
+      "surname": "Nuraliyev",
+      "username": "said_89",
+      "email": "seidvahidli@gmail.com",
+      "password": "111111Az!",
+      "confirmpassword": "111111Az!",
+      "isLogin": false
+    },
+    {
+      "id": "c32e",
+      "name": "Ekber",
+      "surname": "Zeynalli",
+      "username": "ekber_999",
+      "email": "ekber@gmail.com",
+      "password": "222222Az!",
+      "confirmpassword": "222222Az!",
+      "isLogin": false
+    },
+    {
+      "id": "045c",
+      "name": "Seda",
+      "surname": "Novruz",
+      "username": "seda-55",
+      "email": "sdnov.gmail@gmail.com",
+      "password": "Seda2005!",
+      "confirmpassword": "Seda2005!",
+      "isLogin": true
+    }
+  ]
+}
